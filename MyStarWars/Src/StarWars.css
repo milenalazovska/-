@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.small {
+    height: 30vh;
+}
+
+.medium {
+    height: 40vh;
+}
+
+.imgBtn {
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+#loader {
+    height: 15vh;
+    display: none;
+}
+
+td {
+    text-align: center;
+    padding: 1px 80px 1px 80px;
+    font-size: 12px;
+    
+    
+}
+
+th {
+    text-align: center;
+    color: yellow;
+    padding: 1px 80px 1px 80px;
+}
+
+.col-2 {
+    margin-left: 5%
+}
+
+
+/*#nextBtn, #prevBtn {
+    display: none;
+}
+padding: 2px 90px 2px 80px;
